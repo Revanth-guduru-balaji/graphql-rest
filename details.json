@@ -1,7 +1,32 @@
 [
      {
       "id":1,
-      "name":"Munonye",
-      "gender":"Kindson"
+      "name":"Reva",
+      "gender":"Male",
+      "sid":101
+    },
+    {
+      "id":2,
+      "name":"Akram",
+      "gender":"Male",
+      "sid":102
+    },
+    {
+      "id":3,
+      "name":"Navya",
+      "gender":"Female",
+      "sid":102
+    },
+    {
+      "id":4,
+      "name":"Mounika",
+      "gender":"Female",
+      "sid":103
+    },
+    {
+      "id":5,
+      "name":"priya",
+      "gender":"Female",
+      "sid":101
     }
 ]
